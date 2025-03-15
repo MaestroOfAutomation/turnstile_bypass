@@ -1,0 +1,2 @@
+camoufox==0.4.11
+browserforge==1.2.3
